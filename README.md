@@ -22,4 +22,6 @@
 
 | SL.NO        | Links                                                                                                       |
  |--------------|-------------------------------------------------------------------------------------------------------------|
- |    1         | <a href="https://github.com/albinsabu2023/PLSQL-problems/blob/master/strings/stringfunctions.sql">String methods <a/>             |
+ |    1         | <a href="https://github.com/albinsabu2023/PLSQL-problems/blob/master/strings/stringfunctions.sql">String methods <a/> |
+ |    2         | <a href="https://github.com/albinsabu2023/PLSQL-problems/blob/master/strings/printchars.sql">Count Characters  in a string <a/> |
+ |    3         | <a href="https://github.com/albinsabu2023/PLSQL-problems/blob/master/strings/voweloccurances.sql">Count Vowel Occurancs <a/> |
