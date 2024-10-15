@@ -16,3 +16,10 @@
  |    3         | <a href="https://github.com/albinsabu2023/PLSQL-problems/blob/master/loops/evennumbers.sql">Even numbers <a/>     |
  |    4         | <a href="https://github.com/albinsabu2023/PLSQL-problems/blob/master/loops/primenumbers.sql">Prime numbers <a/>    |
  |    5         | <a href="https://github.com/albinsabu2023/PLSQL-problems/blob/master/loops/factorial.sql">factorial of a number <a/>|
+
+
+### 📁Strings
+
+| SL.NO        | Links                                                                                                       |
+ |--------------|-------------------------------------------------------------------------------------------------------------|
+ |    1         | <a href="https://github.com/albinsabu2023/PLSQL-problems/blob/master/strings/stringfunctions.sql">String methods <a/>             |

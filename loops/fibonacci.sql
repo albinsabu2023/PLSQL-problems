@@ -1,5 +1,5 @@
 /*
-    sky ihe limt
+   for printing all the fibonacci number in a range
 */
 DECLARE
   -- Variables to store the Fibonacci numbers
